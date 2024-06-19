@@ -1,1 +1,1 @@
-docker.io/questdb/questdb:6.0.5
+frooodle/s-pdf
