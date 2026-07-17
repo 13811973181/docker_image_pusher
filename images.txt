@@ -1,1 +1,1 @@
-ghcr.io/aquasecurity/trivy-java-db:1
+opensearchproject/opensearch:3.6.0
